@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Welcome](welcome.md)
+* [Welcome](index/welcome.md)
 
