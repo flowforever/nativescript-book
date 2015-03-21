@@ -8,11 +8,6 @@
 3. 通过css控制布局样式，痛点啊作为一个只具有js， .net和少许go
 开发经验的无名码农，初学 app开发感觉太纠结了，不知道怎么整这些layout布局
 
-##目录
-
-* [Introduction](README.md)
-* [Welcome](welcome.md)
-
 
 
 ##一起来
