@@ -6,5 +6,5 @@
 * [环境搭建](getting-started-setup.md)
 * [HelloWorld](helloworld.md)
 * [模块-modules](modules.md)
-* App: 管理
+* [App: 管理](app-management.md)
 
