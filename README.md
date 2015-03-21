@@ -13,4 +13,4 @@
 ##一起来
 如果你对本书有兴趣或者发现本书中的翻译有错误请直接联系我：
 
-nativescript@ajax.so
+[nativescript@ajax.so](mailto:nativescript@ajax.so)
