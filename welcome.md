@@ -1,3 +1,2 @@
-# Welcome
+# 欢迎使用NtiveScript
 
-the content
