@@ -19,4 +19,10 @@
 ![NativeScript程序架构图](http://docs.nativescript.org/img/architecture.png)
 
 1. 基于ns modules和ns runtime只需要一次编码就能实现跨平台
-2. 
+2. 根据不同平台使用不同的资源比如icon，splash screen
+3. 编译你的app：当你启动编译的时候NS将非平台相关的代码编译成native 代码，NativeScript tools 使用native平台sdk和工具来生成一个代码包。
+4. 在模拟器或者真实设备中运行你的app
+
+
+#接下来
+开始探索NativeScript吧
