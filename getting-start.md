@@ -26,7 +26,7 @@ NativeScript安装很简单
      mac osx 用户请 用 sudo权限
 
 
-接下去章节将会详细介绍windows, mac osx下面环境搭建
+接下去章节将会详细介绍windows, mac osx下面环境搭建NativeScript build环境.
 
 
 
