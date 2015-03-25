@@ -7,5 +7,7 @@ NativeScript 简化了原生平台复杂的开发和搭建。
 
 #环境搭建
 
-如果你熟悉Cordova CLI或者你希望开发构建不需要服务你可以使用NativeScript CLI，[传送门](https://github.com/NativeScript/nativescript-cli)
+如果你熟悉Cordova CLI你可以使用NativeScript CLI，[传送门](https://github.com/NativeScript/nativescript-cli)
+
+
 
