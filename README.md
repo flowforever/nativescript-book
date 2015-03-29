@@ -1,11 +1,13 @@
 #NativeScript 中文手册
 
+
+##前言
+第一次接触到NativeScript起就爱上这门技术。
+
 **[立即通过gitbook阅读](http://flowforever.gitbooks.io/nativescript-cn-book/content/)**
 
 **[github地址](https://github.com/flowforever/nativescript-book)**
 
-##前言
-第一次接触到NativeScript起就爱上这门技术。
 
 1. 使用js开发，js能够直接调用natvie api，这个是cordova的痛点，使用cordova不同平台封装好对应的插件js才能使用
 2. 具有native性能，之前使用cordova开发确实很快，但是后来基本就是花一小时开发花一天时间优化，泪奔啊。
