@@ -10,6 +10,6 @@
 * [程序架构与导航(APP:Architecture and Navigation)](cheng_xu_jia_gou_yu_dao_822a28_app__architecture_and_navigation.md)
 * 数据绑定(App: Data Binding)
 * 事件(APP: Events)
-* 定位(APP:Location)
 * 数据属性(APP: Properties)
+* 定位(APP:Location)
 
