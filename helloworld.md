@@ -26,3 +26,28 @@ tns platform add android
 ```
 这步操作使用native SDK初始化以及生成一些平台相关的内容在 platforms 目录.然后NativeScript CLI会使用native sdk的一些工具编译这些平台相关项目文件到真正的native应用包里面.与此同时NativeScript CLI会自动从 app 目录拷贝跨平台的代码到平台相关项目目录.
 
+第三步，在设备或者模拟器上面运行NativeScript程序
+
+```
+
+tns run ios // 在ios设备上面运行hello-world
+tns run android
+
+tns emulate ios // 在ios设备上面运行hello-world
+tns emulate android // 该命令等同于 tns run android --emulate
+```
+
+![android preview](http://docs.nativescript.org/img/getting-started/step3-android.png)
+![ios preview](http://docs.nativescript.org/img/getting-started/step3-ios.png)
+
+
+
+
+
+
+
+
+
+
+
+
