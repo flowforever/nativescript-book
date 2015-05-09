@@ -7,4 +7,5 @@
 * [HelloWorld](helloworld.md)
 * [模块-modules](modules.md)
 * [App: 管理](app-management.md)
+* 程序架构与导航(APP:Architecture and Navigation)
 
