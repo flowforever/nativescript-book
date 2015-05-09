@@ -23,6 +23,7 @@
    * 相机
    * 数据(data)
    * 文件系统(file-system)
+   * fps计算(fps-meter)
 * [UI对话框](uidui_hua_kuang.md)
 * UI样式
 
