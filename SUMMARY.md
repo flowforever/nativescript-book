@@ -12,4 +12,5 @@
 * 事件(APP: Events)
 * 数据属性(APP: Properties)
 * 定位(APP:Location)
+* 相机(APP:Camera)
 
