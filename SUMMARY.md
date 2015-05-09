@@ -21,6 +21,7 @@
    * 应用程序(application)
    * 应用设置
    * 相机
+   * 数据(data)
 * [UI对话框](uidui_hua_kuang.md)
 * UI样式
 
