@@ -22,6 +22,7 @@
    * 应用设置
    * 相机
    * 数据(data)
+   * 文件系统(file-system)
 * [UI对话框](uidui_hua_kuang.md)
 * UI样式
 
