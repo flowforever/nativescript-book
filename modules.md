@@ -38,5 +38,9 @@
 
 ##用户界面相关模块
 * ###布局
+  * ui/layouts/stack-layout
+  * ui/layouts/grid-layout
+  * ui/layouts/absolute-layout
+  * ui/layouts/wrap-layout
 * ###组件
      
