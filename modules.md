@@ -37,12 +37,31 @@
 * data/virtual-array
 
 ##用户界面相关模块
+
 * ###布局
   * ui/layouts/stack-layout
   * ui/layouts/grid-layout
   * ui/layouts/absolute-layout
-  * ui/layouts/wrap-layout: 
+  * ui/layouts/wrap-layout 
   
 
 * ###组件
-     
+    * ui/activity-indicator: Provides the ActivityIndicator class which represents a widget for showing that a service is currently busy.
+    * ui/button: Provides the Button class which is a standard button widget.
+ui/label: Provides the Label class which is a standard label widget.
+    * ui/text-field: Provides the TextField class which represents an editable single-line box.
+    * ui/text-view: Provides the TextView class which represents an editable multi-line line box.
+    * ui/list-view: Provides the ListView class which represents a standard list view widget.
+    * ui/image: Provides the Image class, which represents an image widget.
+    * ui/progress: Provides the Progress class which represents a progress or loading indicator.
+    * ui/scroll-view: Provides the ScrollView class which represents a scrollable area that can show content which is larger than the visible area.
+    * ui/search-bar: Provides the SearchBar class which represents a standard search bar component.
+    * ui/slider: Provides the Slider class which represents a standard slider component.
+    * ui/switch: Provides the Switch class which represents a standard switch component.
+    * ui/tab-view: Provides the TabView class which represents a standard content component with tabs.
+    * ui/web-view: Provides the WebView class which represents a standard browser widget.
+    * ui/dialogs: Lets you show various dialogs such as alerts, prompts, confirmations and others.
+    * ui/list-picker: Provides the ListPicker class which represents a standard list picker component.
+    * ui/date-picker: Provides the DatePicker class which represents a standard date picker component.
+    * ui/time-picker: Provides the TimePicker class which represents a standard time picker component.
+    * ui/placeholder: Provides the Placeholder class which lets you add a native widget to the visual tree.
